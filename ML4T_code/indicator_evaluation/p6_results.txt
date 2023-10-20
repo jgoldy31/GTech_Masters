@@ -1,0 +1,4 @@
+Measure,Benchmark,Portfolio
+Cumulative Return,0.031973,0.472139
+Average Daily Return,6.3e-05,0.000937
+Standard Deviation (Daily),0.041718,0.001147
